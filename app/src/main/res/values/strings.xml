@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Recipe App</string>
+    <string name="add_recipe">Add Recipe</string>
+    <string name="edit_recipe">Edit Recipe</string>
+    <string name="delete_recipe">Delete Recipe</string>
+    <string name="filter">Filter</string>
+    <string name="title">Title</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="steps">Steps</string>
+    <string name="type">Type</string>
+    <string name="page_title_recipe">Recipe</string>
+    <string name="page_title_editor">Editor</string>
+    <string name="clear">Clear</string>
+    <string name="save">Save</string>
+    <string name="toast_notification">Data must be complete to be saved</string>
+</resources>
