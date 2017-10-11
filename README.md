@@ -1,3 +1,5 @@
+Available at: https://play.google.com/store/apps/details?id=com.alkathirikhalid.myrecipes
+
 # Recipe-App
 <Strong>Interview Question to land an Android Developer Role</Strong>
 <p>Create a Recipe App with the following criteria: -</p>
